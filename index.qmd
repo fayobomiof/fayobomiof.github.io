@@ -1,7 +1,19 @@
 ---
-title: "fayobomiof.github.io"
+title: "Welcome to My Website"
+author: "Fayobomi Olusola-Falodun"
+date: "2025-09-11"
+format:
+  html:
+    theme: journal
+    toc: true
 ---
 
-This is a Quarto website.
+# Hello, World! 👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my Quarto website 🎉  
+
+Here’s what you’ll find:  
+- My projects  
+- My learning journey  
+- Links to resources  
+

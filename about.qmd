@@ -1,5 +1,8 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+## About Fayobomi  
+
+I’m a masters student majoring in Applied Business Analytics
+This site is where I’ll share my journey and projects 🚀.  
