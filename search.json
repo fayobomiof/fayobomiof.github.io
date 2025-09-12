@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "fayobomiof.github.io",
+    "title": "Welcome to My Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello, World! 👋\nWelcome to my Quarto website 🎉\nHere’s what you’ll find:\n- My projects\n- My learning journey\n- Links to resources\n-Any extra things :)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a masters student majoring in Applied Business Analytics This site is where I’ll share my journey and projects 🚀."
+  },
+  {
+    "objectID": "about.html#about-fayobomi",
+    "href": "about.html#about-fayobomi",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a masters student majoring in Applied Business Analytics This site is where I’ll share my journey and projects 🚀."
   }
 ]
