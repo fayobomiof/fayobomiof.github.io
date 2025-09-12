@@ -1,21 +1,14 @@
 ---
-title: "Welcome to My Website"
-author: "Fayobomi Olusola-Falodun"
-date: "2025-09-11"
-format:
-  html:
-    theme: journal
-    toc: true
+title: "Welcome to My Quarto Website"
+format: html
 ---
 
-# Hello, World! 👋
+# Hello from EC2  
 
-Welcome to my Quarto website 🎉  
+This page was built and deployed from my AWS EC2 instance! 🚀  
 
-Here’s what you’ll find:  
-- My projects  
-- My learning journey  
-- Links to resources  
--Any extra things :)
-
+```{python}
+import pandas as pd
+df = pd.DataFrame({"x": [1, 2, 3], "y": [4, 5, 6]})
+df.head()
 
