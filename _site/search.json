@@ -16,8 +16,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Website",
+    "title": "Welcome to My Quarto Website",
     "section": "",
-    "text": "Hello, World! 👋\nWelcome to my Quarto website 🎉\nHere’s what you’ll find:\n- My projects\n- My learning journey\n- Links to resources"
+    "text": "Hello from EC2\nThis page was built and deployed from my AWS EC2 instance! 🚀\nimport pandas as pd df = pd.DataFrame({“x”: [1, 2, 3], “y”: [4, 5, 6]}) df.head()"
   }
 ]
